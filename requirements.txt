@@ -1,0 +1,8 @@
+### dependency
+streamlit
+numpy
+pandas
+matplotlib
+nltk==3.6.5
+scikit-learn
+### local packages - 
